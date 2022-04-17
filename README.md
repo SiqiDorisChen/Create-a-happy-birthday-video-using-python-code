@@ -1,2 +1,6 @@
 # HappyBirthday-small-video-
-turtle
+A small video using turtle
+
+Two little snowmen wish you a happy birthday!
+
+Feel free to change the name
